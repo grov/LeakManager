@@ -1,10 +1,12 @@
 # LeakManager
 
 # A faire :
+<pre>
 *Ajouter une colonne "Hash"
 *Améliorer le parsing un peu trop stricte (csv... format défini ...)
-
+</pre>
 # Install
+
 <pre>
 sudo apt-get install mongodb-org screen
 pip3 install -r requeriments.txt
