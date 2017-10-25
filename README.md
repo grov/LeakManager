@@ -1,5 +1,9 @@
 # LeakManager
 
+# A faire :
+*Ajouter une colonne "Hash"
+*Améliorer le parsing un peu trop stricte (csv... format défini ...)
+
 # Install
 <pre>
 sudo apt-get install mongodb-org screen
